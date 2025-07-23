@@ -36,6 +36,5 @@ All version-specific release notes can be found in the [`releases/`](./releases)
 - [v0.0.10](./releases/v0.0.10.md)
 - [v0.0.9](./releases/v0.0.9.md)
 - [v0.0.8](./releases/v0.0.8.md)
-- [v0.0.7](./releases/v0.0.7.md)
 
 ---
