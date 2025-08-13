@@ -26,7 +26,8 @@ All version-specific release notes can be found in the [`releases/`](./releases)
 
 ### Latest Releases
 
-- [v0.3.1](./releases/v0.3.1.md) - Latest version
+- [v0.3.1](./releases/v0.3.2.md) - Latest version
+- [v0.3.1](./releases/v0.3.1.md)
 - [v0.3.0](./releases/v0.3.0.md)
 - [v0.2.3](./releases/v0.2.3.md)
 - [v0.2.2](./releases/v0.2.2.md)
